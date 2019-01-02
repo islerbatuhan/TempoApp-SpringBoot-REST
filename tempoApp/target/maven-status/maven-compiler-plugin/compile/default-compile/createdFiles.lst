@@ -1,0 +1,13 @@
+tempoApp\restCall\repository\SongRepository.class
+tempoApp\restCall\repository\DailyPerformanceDataRepository.class
+tempoApp\restCall\models\Playlist.class
+tempoApp\restCall\models\DailyPerformanceData.class
+tempoApp\restCall\models\User.class
+tempoApp\restCall\controllers\SongElementController.class
+tempoApp\restCall\controllers\DailyPerformanceDataElementController.class
+tempoApp\restCall\controllers\PlaylistElementController.class
+tempoApp\restCall\repository\PlaylistRepository.class
+tempoApp\restCall\controllers\UserElementController.class
+tempoApp\restCall\repository\UserRepository.class
+tempoApp\restCall\Application.class
+tempoApp\restCall\models\Song.class

@@ -1,0 +1,13 @@
+C:\tempoApp\src\main\java\tempoApp\restCall\controllers\DailyPerformanceDataElementController.java
+C:\tempoApp\src\main\java\tempoApp\restCall\Application.java
+C:\tempoApp\src\main\java\tempoApp\restCall\models\DailyPerformanceData.java
+C:\tempoApp\src\main\java\tempoApp\restCall\models\User.java
+C:\tempoApp\src\main\java\tempoApp\restCall\models\Playlist.java
+C:\tempoApp\src\main\java\tempoApp\restCall\models\Song.java
+C:\tempoApp\src\main\java\tempoApp\restCall\repository\UserRepository.java
+C:\tempoApp\src\main\java\tempoApp\restCall\repository\DailyPerformanceDataRepository.java
+C:\tempoApp\src\main\java\tempoApp\restCall\repository\PlaylistRepository.java
+C:\tempoApp\src\main\java\tempoApp\restCall\repository\SongRepository.java
+C:\tempoApp\src\main\java\tempoApp\restCall\controllers\PlaylistElementController.java
+C:\tempoApp\src\main\java\tempoApp\restCall\controllers\UserElementController.java
+C:\tempoApp\src\main\java\tempoApp\restCall\controllers\SongElementController.java
